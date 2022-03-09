@@ -16,4 +16,4 @@ The more populated areas show more frequent rides (resulting in more drivers and
 `fare_weekly_df = fare_jan_apr_df.resample("W").sum()`
 
 ### Database pics:
-[PyBer Analysis Graph](https://github.com/tonyferri/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png)
+![PyBer Analysis Graph](https://github.com/tonyferri/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png)
